@@ -1,1 +1,3 @@
-ok
+link Trell : https://trello.com/b/y5uknORk/d%E1%BB%B1-an-web-cinebookinghub
+link chức năng web : https://docs.google.com/spreadsheets/d/1eCWbVI9klS_qFpKy_72ZlX-QNkAXF95m0nZpzFIGBPk/edit?gid=0#gid=0
+link figma giao diện : https://www.figma.com/design/0Fvfhjg452R1AXuiSc9OrM/Desktop?node-id=0-1&node-type=canvas&t=pVY6tQD1gS2kOB8k-0&fuid=1244120724032097714
